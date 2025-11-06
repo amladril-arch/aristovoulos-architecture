@@ -121,9 +121,9 @@ Aristovoulos      10      7             6           4              5            
 GPT-4o (OpenAI)    7      8             8           9              9             8
 Claude (Anthropic) 9      9             9           8              8             9
 Gemini (Google)    8      8             8           9              9             8
-Grok (xAI),6,9,9,7,8,9
-Llama (Meta),7,8,8,7,8,7
-"Agentic Lab Architectures (e.g., o1)",8,9,8,8,7,9
+Grok (xAI)         6      9             9           7              8             9
+Llama (Meta)       7      8             8           7              8             7
+"Agentic Lab Arch" 8      9             8           8              7             9
 
 We win where it matters most: ETHICS. ✅
 How?
